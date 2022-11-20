@@ -10,7 +10,8 @@ module.exports = {
       
       colors: {
 
-        compl
+        mintgreen: "#62CE91",
+        background: "#EBEBEB"
 
       }
 
